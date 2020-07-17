@@ -1,0 +1,74 @@
+.nav-wrapper
+{
+    background-color: #674027;
+}
+.carousel{
+    width:100%;
+    max-width:2000px !important;
+    max-height:1000px !important;
+}
+h4 {
+    font-family:Arial;
+    color:rgb(240, 244, 247);
+    font-size: 2.2vw;
+    padding-top:20px;
+    line-height: 1.6;
+    display: block;
+}
+p{
+    color:whitesmoke;
+    font-style: Italic;
+    font-family:caligraphy;
+}
+
+.modal-content{
+    background-color: rgb(82, 56, 56);
+    color: white;
+
+
+}
+
+
+.sidenav{
+    background-color: rgb(153, 131, 131);
+    color: whitesmoke;
+
+}
+.modal5{
+text-color: whitesmoke;
+}
+
+.move{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.card-content{
+    background-color: rgb(117, 87, 87);
+}
+.parallax-container{
+    min-height:200px;
+    background-image: url("../images/parallax.jpeg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icon-coffee{
+    color: #674027;
+}
+.footer-one{
+    background-color: #674027;
+}
+.footer-two{
+    background-color: #492d1e;
+}
+#description img{
+        max-width: 200px;
+        max-height: 300px;
+        margin-top: auto;
+        margin-bottom: auto;
+        background-color: tan;
+}
+
